@@ -1,0 +1,8 @@
+argparse
+torchaudio
+speechbrain
+pandas
+tqdm
+scikit-learn
+numpy
+scipy
